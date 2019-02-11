@@ -2,6 +2,6 @@
 DevOps Aula 2
 
 
-* Dijair Vieira Ribeiro
+* Luana
 * Gabriel Gamoski Guenda
 * Paulo Paixão
